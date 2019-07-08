@@ -1,5 +1,5 @@
 # NodeHelloWorld
-Node Js Hello World Program
+NodeJs Hello World Program
 
 Now execute the NodeHelloWorld.js to start the server as follows −
 
